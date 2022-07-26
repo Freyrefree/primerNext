@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { MainLayout } from "../componentes/layouts/MainLayout";
 
 
-export default function Diego() {//Obligatorio export default
+export default function HomePage() {//Obligatorio export default
 
   return (
 

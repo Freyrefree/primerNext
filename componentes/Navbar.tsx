@@ -38,7 +38,8 @@ export const Navbar = () => {
         {/* <Activelink text="Home" href="/"/>
         <Activelink text="About" href="/about"/>
         <Activelink text="Contact" href="/contact"/>
-        <Activelink text="Pricing" href="/pricing"/> */}
+        <Activelink text="Pricing" href="/pricing"/> 
+        */}
 
     </nav>
   )
